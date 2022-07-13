@@ -1,0 +1,17 @@
+{
+  "profiles": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.email",
+      "password": "John@1234"
+    },
+    {
+      "first_name": "Ann",
+      "last_name": "Smith",
+      "email": "ann@javatpoint.com",
+      "password": "John@1234"
+    }
+
+  ]
+}
