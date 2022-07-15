@@ -13,6 +13,62 @@
       "last_name": "Smith",
       "email": "ann@javatpoint.com",
       "password": "John@1234"
+    },
+    {
+      "id" : 3,
+      "first_name": "Clementine",
+      "last_name": "Bauch",
+      "email": "Nathan@yesenia.net",
+      "password": "Nathan@yesenia"
+    },
+    {
+      "id" : 4,
+      "first_name": "Patricia",
+      "last_name": "Lebsack",
+      "email": "Julianne.OConner@kory.org",
+      "password": "Karianne123213"
+    },
+    {
+      "id" : 5,
+      "first_name": "Chelsey",
+      "last_name": "Dietrich",
+      "email": "Lucio_Hettinger@annie.ca",
+      "password": "Kamren2132"
+    },
+    {
+      "id" : 6,
+      "first_name": "Dennis",
+      "last_name": "Schulist",
+      "email": "Karley_Dach@jasper.info",
+      "password": "Leopoldo_Corkery"
+    },
+    {
+      "id" : 7,
+      "first_name": "Kurtis",
+      "last_name": "Weissnat",
+      "email": "Telly.Hoeger@billy.biz",
+      "password": "Elwyn.Skiles"
+    },
+    {
+      "id" : 8,
+      "first_name": "Nicholas",
+      "last_name": "Runolfsdottir",
+      "email": "Sherwood@rosamond.me",
+      "password": "Maxime_Nienow"
+    },
+    {
+      "id" : 9,
+      "first_name": "Glenna",
+      "last_name": "Reichert",
+      "email": "Chaim_McDermott@dana.io",
+      "password": "Delphine@1234"
+    },
+    {
+      "id" : 10,
+      "first_name": "Clementina",
+      "last_name": "DuBuque",
+      "email": "Rey.Padberg@karina.biz",
+      "password": "Moriah.Stanton@1234"
     }
 
   ]
